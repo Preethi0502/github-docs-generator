@@ -1,0 +1,31 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Yarn / Node.js Files
+node_modules/
+.yarn/
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+
+# Python Files (if applicable)
+__pycache__/
+*.pyc
+
+# Anaconda Files
+.conda/
+.anaconda/
+
+# Virtual Environments
+.env/
+.venv/
+
+# Backup and Swap Files
+*.bak
+*.swp
+*.swo
